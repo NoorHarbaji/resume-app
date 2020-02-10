@@ -33,6 +33,7 @@ const LogIn = ({ props }) => {
             src="https://img.icons8.com/dusk/64/000000/sign-up.png"
             alt="sign-up"
           />
+          <figcaption>sign up</figcaption>
         </figure>
       </div>
     </>

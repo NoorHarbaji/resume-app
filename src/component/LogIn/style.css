@@ -14,7 +14,7 @@ span {
   transform: translate(-50%, -50%);
   box-shadow: -2px -2px 5px rgb(255, 255, 255), 3px 3px 5px rgba(0, 0, 0, 0.1);
   position: relative;
-  top: 210px;
+  top: 230px;
   left: 150px;
   padding: 0 15px;
 }
