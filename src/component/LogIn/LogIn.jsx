@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-const LogIn = ({ props }) => {
+const LogIn = () => {
   return (
     <>
       <div className="form-item">
